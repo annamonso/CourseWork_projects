@@ -1,0 +1,166 @@
+From,To
+Rogers Park,West Ridge,
+Rogers Park,Edgewater
+West Ridge,Edgewater
+West Ridge,Lincoln Square
+Edgewater,Uptown
+Lincoln Square,Edgewater
+Uptown,Lincoln Square
+Uptown,Lake View
+Lincoln Square,North Center
+Lincoln Square,Albany Park
+North Center,Lake View
+North Center,Avondale
+Lake View,Lincoln Park
+Lincoln Park,North Center
+West Town,Lincoln Park
+Lincoln Park,Near North
+Near West Side,West Town
+Near North,Loop
+Near West Side,Near South
+Loop,Near West Side
+Near West Side,North Lawndale
+Near South,Loop
+Near South,Douglas
+Near South,Armour Square
+Douglas,Grand Boulevard
+Washington Park,Grand Boulevard
+Washington Park,Englewood
+Washington Park,Hyde Park
+Washington Park,Woodlawn
+Washington Park,Greater Grand Crossing
+Oakland,Douglas
+Oakland,Kenwood
+Oakland,Grand Boulevard
+Kenwood,Hyde Park
+Kenwood,Grand Boulevard
+Hyde Park,Woodlawn
+South Shore,Woodlawn
+South Shore,Avalon Park
+South Shore,South Chicago
+South Chicago,Calumet Heights
+South Chicago,East Side
+East Side,Hegewisch
+South Deering,East Side
+South Deering,South Chicago
+Calumet Heights,Avalon Park
+Calumet Heights,South Deering
+Avalon Park,South Chicago
+Avalon Park,Greater Grand Crossing
+Chatham,Avalon Park
+Chatham,Greater Grand Crossing
+Chatham,Burnside
+Roseland,Chatham
+Roseland,Pullman
+Roseland,West Pullman
+Pullman,South Deering
+Riverdale,Pullman
+Riverdale,South Deering
+Riverdale,West Pullman
+Hegewisch,Riverdale
+Hegewisch,South Deering
+Morgan Park,West Pullman
+Morgan Park,Washington Heights
+Beverly,Morgan Park
+Morgan Park,Roseland
+Calumet Heights,Burnside
+Pullman,Burnside
+Mount Greenwood,Beverly
+Mount Greenwood,Morgan Park
+Washington Heights,Roseland
+Washington Heights,Auburn Gresham
+Washington Heights,Beverly
+Auburn Gresham,Chatham
+Auburn Gresham,Roseland
+Auburn Gresham,Beverly
+Greater Grand Crossing,Woodlawn
+Greater Grand Crossing,South Shore
+Greater Grand Crossing,Auburn Gresham
+Englewood,Greater Grand Crossing
+Englewood,Auburn Gresham
+West Englewood,Englewood
+West Englewood,Auburn Gresham
+West Englewood,Chicago Lawn
+West Englewood,Gage Park
+West Englewood,New City
+Chicago Lawn,Ashburn
+Ashburn,West Lawn
+Ashburn,Auburn Gresham
+Ashburn,Beverly
+West Lawn,Chicago Lawn
+West Lawn,Clearing
+Clearing,Garfield Ridge
+Garfield Ridge,West Elsdon
+West Elsdon,West Lawn
+Archer Heights,Garfield Ridge
+West Elsdon,Archer Heights
+West Elsdon,Gage Park
+Fuller Park,Armour Square
+Brighton Park,Archer Heights
+Brighton Park,New City
+Fuller Park,Grand Boulevard
+Gage Park,Brighton Park
+Gage Park,New City
+Fuller Park,New City
+Fuller Park,Washington Park
+New City,McKinley Park
+New City,Bridgeport
+New City,Englewood
+Fuller Park,Englewood
+Bridgeport,McKinley Park
+Brighton Park,McKinley Park
+Bridgeport,Lower West Side
+Armour Square,Lower West Side
+Armour Square,Bridgeport
+Armour Square,Douglas
+Lower West Side,McKinley Park
+Archer Heights,South Lawndale
+Near North,West Town
+Near North,Near West Side
+Lower West Side,Near West Side
+South Lawndale,Lower West Side
+South Lawndale,North Lawndale
+South Lawndale,Brighton Park
+North Lawndale,West Garfield Park
+North Lawndale,East Garfield Park
+West Garfield Park,East Garfield Park
+West Garfield Park,Humboldt Park
+East Garfield Park,Near West Side
+East Garfield Park,Humboldt Park
+Lincoln Park,Logan Square
+Humboldt Park,West Town
+Logan Square,Humboldt Park
+Logan Square,West Town
+Austin,Belmont Cragin
+Avondale,Logan Square
+Avondale,Hermosa
+Irving Park,Avondale
+Irving Park,Hermosa
+Irving Park,Albany Park
+Irving Park,North Center
+North Park,Albany Park
+North Park,West Ridge
+North Park,Lincoln Square
+Forest Glen,North Park
+Forest Glen,Albany Park
+Forest Glen,Irving Park
+Jefferson Park,Forest Glen
+Edison Park,Norwood Park
+Portage Park,Jefferson Park
+Portage Park,Irving Park
+Belmont Cragin,Portage Park
+Belmont Cragin,Montclare
+Hermosa,Belmont Cragin
+Hermosa,Logan Square
+Hermosa,Humboldt Park
+Montclare,Austin
+Dunning,Montclare
+Dunning,Belmont Cragin
+Dunning,Portage Park
+Norwood Park,Jefferson Park
+Norwood Park,Forest Glen
+O'Hare,Norwood Park
+O'Hare,Dunning
+Humboldt Park,Austin
+West Garfield Park,Austin
+    
