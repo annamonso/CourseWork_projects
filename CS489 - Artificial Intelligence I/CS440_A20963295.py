@@ -217,7 +217,7 @@ elif mode==2:
 game = Game(player1, player2, mode, algorithm_type)
 
 state = ([" " for _ in range(9)], player1)
-
+game.show_board(state)
 if mode==1:
     while True:
         board, turn = state
