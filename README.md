@@ -93,12 +93,12 @@ A series of assignments exploring the foundations of deep learning:
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Anna Monso]
 
 ---
 
 ## 👩‍💻 Author
 
 **Anna Monso**  
-Data Science & Machine Learning Student  
+Data Science & AI Student  
 [GitHub Profile](https://github.com/annamonso)
