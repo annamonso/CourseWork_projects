@@ -2,7 +2,7 @@
  
 **Anna Monso Rodriguez**
 Master in Artificial Intelligence | Illinois Institute of Technology
-[GitHub](https://github.com/annamonso) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/annamonso) | [LinkedIn](https://www.linkedin.com/in/anna-monso/)
  
 ---
  
@@ -29,16 +29,20 @@ CourseWork_projects/
 ├── CS577 - Deep Learning/
 │   ├── HW1/  Neural Network Training & Backpropagation from Scratch
 │   ├── HW2/  Custom Autograd Functions & Gradient Computation
-│   └── HW3/  im2col Implementation & 2-Layer RNN for Sequence Modeling
+│   ├── HW3/  im2col Implementation & 2-Layer RNN for Sequence Modeling
+│   ├── HW4/  Flash Attention with Safe Softmax
+│   └── HW5/  Multiclass Classification & Convexity Analysis
 │
 ├── CS579 - Online Social Network Analysis/
-│   └── ASS2/  Network Graph Analysis & Community Detection
+│   ├── ASS2/  Network Graph Analysis & Community Detection
+│   └── HW4/   Socioeconomic Similarity Networks & Geographic Clustering
 │
 └── CS584 - Machine Learning/
     ├── HW0/  Python & ML Fundamentals
     ├── HW1/  Polynomial Regression & Model Selection
     ├── HW2/  Multivariate Regression & Feature Engineering
-    └── HW3/  Ensemble Learning & Kernel Methods
+    ├── HW3/  Ensemble Learning & Kernel Methods
+    └── HW4/  Support Vector Machines & Advanced Ensemble Methods
 ```
  
 ---
@@ -252,8 +256,8 @@ Master in Artificial Intelligence Student
 Illinois Institute of Technology
  
 - **GitHub:** [github.com/annamonso](https://github.com/annamonso)
-- **LinkedIn:** [linkedin.com/in/your-profile](#)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/anna-monso/)
+- **Email:** anna.monso.rodriguez@gmail.com
  
 ---
  
