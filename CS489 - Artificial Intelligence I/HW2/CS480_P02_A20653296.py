@@ -75,7 +75,7 @@ def get_possible_values(current_state, current_zone, zones, distances):
     next_valid_states = list(set(next_states) & set(dist_from_state.keys()))
 
     
-    return next_valid_states 
+    return sorted(next_valid_states)
 
 
 def backtrack(path, total_distance, total_parks, current_zone, target_parks, zones, parks, distances):
